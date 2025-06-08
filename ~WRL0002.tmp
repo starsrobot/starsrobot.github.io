@@ -10,27 +10,19 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <meta name=Generator content="Microsoft Word 15">
 <meta name=Originator content="Microsoft Word 15">
 <link rel=File-List href="index-Dateien/filelist.xml">
-<link rel=Edit-Time-Data href="index-Dateien/editdata.mso">
-<!--[if !mso]>
-<style>
-v\:* {behavior:url(#default#VML);}
-o\:* {behavior:url(#default#VML);}
-w\:* {behavior:url(#default#VML);}
-.shape {behavior:url(#default#VML);}
-</style>
-<![endif]--><!--[if gte mso 9]><xml>
+<!--[if gte mso 9]><xml>
  <o:DocumentProperties>
   <o:Author>Paul Mehofer</o:Author>
   <o:LastAuthor>Paul Mehofer</o:LastAuthor>
-  <o:Revision>4</o:Revision>
+  <o:Revision>3</o:Revision>
   <o:Created>2025-06-08T06:13:00Z</o:Created>
-  <o:LastSaved>2025-06-08T07:23:00Z</o:LastSaved>
+  <o:LastSaved>2025-06-08T06:22:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>46</o:Words>
-  <o:Characters>297</o:Characters>
-  <o:Lines>2</o:Lines>
+  <o:Words>26</o:Words>
+  <o:Characters>170</o:Characters>
+  <o:Lines>1</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>342</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>195</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -44,6 +36,7 @@ w\:* {behavior:url(#default#VML);}
   <w:View>Print</w:View>
   <w:Zoom>130</w:Zoom>
   <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
   <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
   <w:HyphenationZone>21</w:HyphenationZone>
@@ -787,7 +780,7 @@ div.WordSection1
 	font-family:"Times New Roman",serif;}
 </style>
 <![endif]--><!--[if gte mso 9]><xml>
- <o:shapedefaults v:ext="edit" spidmax="1027"/>
+ <o:shapedefaults v:ext="edit" spidmax="1026"/>
 </xml><![endif]--><!--[if gte mso 9]><xml>
  <o:shapelayout v:ext="edit">
   <o:idmap v:ext="edit" data="1"/>
@@ -799,125 +792,14 @@ word-wrap:break-word'>
 
 <div class=WordSection1>
 
-<h1><span style='font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman"'>Hallo
-Welt<o:p></o:p></span></h1>
+<h1><span style='mso-fareast-font-family:"Times New Roman"'>Hallo Welt<o:p></o:p></span></h1>
 
-<p><span style='font-family:"Arial",sans-serif'>Ich bin Paul. Hier seht ihr
-mein Spiel <span class=SpellE>StarsRobot</span> 1. Es ist in Scratch
-programmiert. Um es zu starten m&uuml;sst ihr es herunterladen und auf die
-Seite <a href="https://scratch.mit.edu/">https://scratch.mit.edu/</a> <span
-style='mso-spacerun:yes'>&nbsp;</span>hochladen.<o:p></o:p></span></p>
+<p>Ich bin Paul. Hier entsteht meine Seite.</p>
 
-<p><span style='font-family:"Arial",sans-serif'>Ihr k&ouml;nnt es hier
-herunterladen:<br>
-<a href="files/starsrobot-Version1.000.01.sb3">Starsrobot-Version1</a><o:p></o:p></span></p>
+<p>Hier seht ihr mein Spiel <span class=SpellE>StarsRobot</span> 1.</p>
 
-<p><!--[if gte vml 1]><v:shapetype id="_x0000_t202" coordsize="21600,21600"
- o:spt="202" path="m,l,21600r21600,l21600,xe">
- <v:stroke joinstyle="miter"/>
- <v:path gradientshapeok="t" o:connecttype="rect"/>
-</v:shapetype><v:shape id="Textfeld_x0020_2" o:spid="_x0000_s1026" type="#_x0000_t202"
- style='position:absolute;margin-left:209pt;margin-top:14.35pt;width:227.15pt;
- height:149.75pt;z-index:251659264;visibility:visible;mso-wrap-style:square;
- mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;
- mso-wrap-distance-top:3.6pt;mso-wrap-distance-right:9pt;
- mso-wrap-distance-bottom:3.6pt;mso-position-horizontal:absolute;
- mso-position-horizontal-relative:text;mso-position-vertical:absolute;
- mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;
- mso-width-relative:margin;mso-height-relative:margin;v-text-anchor:top'
- o:gfxdata="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
-8wAAAHYFAAAAAA==
-">
- <v:textbox>
-  <![if !mso]>
-  <table cellpadding=0 cellspacing=0 width="100%">
-   <tr>
-    <td><![endif]>
-    <div>
-    <p class=MsoNormal><span style='font-family:"Arial",sans-serif'>Spielanleitung:<o:p></o:p></span></p>
-    <p class=MsoNormal style='margin-left:78.0pt;text-indent:-78.0pt'><span
-    style='font-family:"Arial",sans-serif'>Leertaste <span
-    style='mso-spacerun:yes'>&nbsp;&nbsp;</span>&#8230; du beginnst das Spiel<o:p></o:p></span></p>
-    <p class=MsoNormal style='margin-left:78.0pt;text-indent:-78.0pt'><span
-    style='font-family:"Arial",sans-serif'>Pfeiltasten &#8230; du lenkst den
-    Roboter<o:p></o:p></span></p>
-    <p class=MsoNormal style='margin-left:78.0pt;text-indent:-78.0pt'><span
-    style='font-family:"Arial",sans-serif'>A <span
-    style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>&#8230;
-    setzt die Figuren an die Anfangsposition zur&uuml;ck<o:p></o:p></span></p>
-    <p class=MsoNormal style='margin-left:78.0pt;text-indent:-78.0pt'><span
-    style='font-family:"Arial",sans-serif'>S und D<span
-    style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp; </span>&#8230; bei
-    gedr&uuml;ckter Taste beginnt die Teleportation<o:p></o:p></span></p>
-    <p class=MsoNormal style='margin-left:78.0pt;text-indent:-78.0pt'><span
-    style='font-family:"Arial",sans-serif'>F<span
-    style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </span>&#8230; beendet das Spiel</span></p>
-    </div>
-    <![if !mso]></td>
-   </tr>
-  </table>
-  <![endif]></v:textbox>
- <w:wrap type="square"/>
-</v:shape><![endif]--><![if !vml]><img width=307 height=204
-src="index-Dateien/image001.png" align=left hspace=12 vspace=5
-alt="Textfeld: Spielanleitung:&#13;&#10;Leertaste   &#8230; du beginnst das Spiel&#13;&#10;Pfeiltasten &#8230; du lenkst den Roboter&#13;&#10;A                &#8230; setzt die Figuren an die Anfangsposition zur&uuml;ck&#13;&#10;S und D     &#8230; bei gedr&uuml;ckter Taste beginnt die Teleportation&#13;&#10;F                &#8230; beendet das Spiel&#13;&#10;"
-v:shapes="Textfeld_x0020_2"><![endif]><span style='font-family:"Arial",sans-serif'><o:p></o:p></span></p>
-
-<p><span style='font-family:"Arial",sans-serif;mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype
- id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
- path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
- <v:stroke joinstyle="miter"/>
- <v:formulas>
-  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
-  <v:f eqn="sum @0 1 0"/>
-  <v:f eqn="sum 0 0 @1"/>
-  <v:f eqn="prod @2 1 2"/>
-  <v:f eqn="prod @3 21600 pixelWidth"/>
-  <v:f eqn="prod @3 21600 pixelHeight"/>
-  <v:f eqn="sum @0 0 1"/>
-  <v:f eqn="prod @6 1 2"/>
-  <v:f eqn="prod @7 21600 pixelWidth"/>
-  <v:f eqn="sum @8 21600 0"/>
-  <v:f eqn="prod @7 21600 pixelHeight"/>
-  <v:f eqn="sum @10 21600 0"/>
- </v:formulas>
- <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
- <o:lock v:ext="edit" aspectratio="t"/>
-</v:shapetype><v:shape id="Grafik_x0020_1" o:spid="_x0000_i1025" type="#_x0000_t75"
- style='width:174.5pt;height:130.5pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="index-Dateien/image002.png" o:title=""/>
-</v:shape><![endif]--><![if !vml]><img border=0 width=233 height=174
-src="index-Dateien/image003.png" v:shapes="Grafik_x0020_1"><![endif]></span><span
-style='font-family:"Arial",sans-serif'><o:p></o:p></span></p>
+<p>Ihr k&ouml;nnt es hier herunterladen:<br>
+<a href="files/starsrobot-Version1.000.01.sb3">Starsrobot-Version1</a></p>
 
 </div>
 
