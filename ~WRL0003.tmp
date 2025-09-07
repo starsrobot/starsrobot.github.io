@@ -22,15 +22,15 @@ w\:* {behavior:url(#default#VML);}
  <o:DocumentProperties>
   <o:Author>Paul Mehofer</o:Author>
   <o:LastAuthor>Paul Mehofer</o:LastAuthor>
-  <o:Revision>18</o:Revision>
+  <o:Revision>17</o:Revision>
   <o:Created>2025-06-08T06:13:00Z</o:Created>
-  <o:LastSaved>2025-09-07T14:44:00Z</o:LastSaved>
+  <o:LastSaved>2025-09-07T14:33:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>565</o:Words>
-  <o:Characters>3566</o:Characters>
-  <o:Lines>29</o:Lines>
+  <o:Words>600</o:Words>
+  <o:Characters>3782</o:Characters>
+  <o:Lines>31</o:Lines>
   <o:Paragraphs>8</o:Paragraphs>
-  <o:CharactersWithSpaces>4123</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>4374</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -43,7 +43,6 @@ w\:* {behavior:url(#default#VML);}
  <w:WordDocument>
   <w:Zoom>130</w:Zoom>
   <w:SpellingState>Clean</w:SpellingState>
-  <w:GrammarState>Clean</w:GrammarState>
   <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
   <w:HyphenationZone>21</w:HyphenationZone>
@@ -861,7 +860,13 @@ Welt<o:p></o:p></span></h1>
 
 <p><span style='font-family:"Arial",sans-serif'>Ich bin Paul. Hier seht ihr
 mein Spiel <span class=SpellE>StarsRobot</span> 1. Es ist in Scratch
-programmiert.<o:p></o:p></span></p>
+programmiert. Um es zu starten m&uuml;sst ihr es herunterladen und auf die
+Seite <a href="https://scratch.mit.edu/">https://scratch.mit.edu/</a><span
+style='mso-spacerun:yes'>&nbsp; </span>hochladen.<o:p></o:p></span></p>
+
+<p><span style='font-family:"Arial",sans-serif'>Ihr k&ouml;nnt es hier
+herunterladen:<br>
+<a href="files/starsrobot-Version1.000.01.sb3">Starsrobot-Version1</a><o:p></o:p></span></p>
 
 <p><!--[if gte vml 1]><v:shapetype id="_x0000_t202" coordsize="21600,21600"
  o:spt="202" path="m,l,21600r21600,l21600,xe">
@@ -939,7 +944,7 @@ FA8CAAAgBAAADgAAAAAAAAAAAAAAAAAuAgAAZHJzL2Uyb0RvYy54bWxQSwECLQAUAAYACAAAACEA
   <![endif]></v:textbox>
  <w:wrap type="square"/>
 </v:shape><![endif]--><![if !vml]><img width=309 height=206
-src="index-Dateien/image004.png" align=left hspace=12 vspace=5
+src="index-Dateien/image001.png" align=left hspace=12 vspace=5
 alt="Textfeld: Spielanleitung:&#13;&#10;Leertaste   &#8230; du beginnst das Spiel&#13;&#10;Pfeiltasten &#8230; du lenkst den Roboter&#13;&#10;A                &#8230; setzt die Figuren an die Anfangsposition zur&uuml;ck&#13;&#10;S und D     &#8230; bei gedr&uuml;ckter Taste beginnt die Teleportation&#13;&#10;F                &#8230; beendet das Spiel&#13;&#10;"
 v:shapes="Textfeld_x0020_1229689098"><![endif]><span style='font-family:"Arial",sans-serif'><o:p></o:p></span></p>
 
@@ -966,14 +971,14 @@ v:shapes="Textfeld_x0020_1229689098"><![endif]><span style='font-family:"Arial",
 </v:shapetype><v:shape id="Grafik_x0020_1" o:spid="_x0000_i1026" type="#_x0000_t75"
  style='width:174.75pt;height:130.5pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="index-Dateien/image002.png" o:title=""/>
-</v:shape><![endif]--><![if !vml]><img width=233 height=174
-src="index-Dateien/image005.png" v:shapes="Grafik_x0020_1"><![endif]></span><span
+</v:shape><![endif]--><![if !vml]><img border=0 width=233 height=174
+src="index-Dateien/image003.png" v:shapes="Grafik_x0020_1"><![endif]></span><span
 style='font-family:"Arial",sans-serif'><o:p></o:p></span></p>
 
 <p><span style='font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p>
 
-<p><span style='font-family:"Arial",sans-serif'>Wenn ihr das Spiel spielen
-wollt, k&ouml;nnt ihr dies mit dem folgenden Link.<o:p></o:p></span></p>
+<p><span style='font-family:"Arial",sans-serif'>Wenn ihr das Spiel direkt
+spielen wollt, k&ouml;nnt ihr dies mit dem folgenden Link.<o:p></o:p></span></p>
 
 <p><span style='font-family:"Arial",sans-serif'><a
 href="files/starsrobotweb.html"><span class=SpellE>starsrobotweb</span></a></span><span
@@ -1390,7 +1395,7 @@ AHwBAAAuEwAAAAA=
 ">
  <v:imagedata src="index-Dateien/image006.png" o:title="" cropbottom="-440f"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=103 height=20
-src="index-Dateien/image008.png" v:shapes="Bild_x0020_2"><![endif]></span><span
+src="index-Dateien/image007.png" v:shapes="Bild_x0020_2"><![endif]></span><span
 style='mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
 
 </div>
