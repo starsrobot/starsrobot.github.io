@@ -22,15 +22,15 @@ w\:* {behavior:url(#default#VML);}
  <o:DocumentProperties>
   <o:Author>Paul Mehofer</o:Author>
   <o:LastAuthor>Paul Mehofer</o:LastAuthor>
-  <o:Revision>14</o:Revision>
+  <o:Revision>13</o:Revision>
   <o:Created>2025-10-11T12:02:00Z</o:Created>
-  <o:LastSaved>2025-10-18T17:15:00Z</o:LastSaved>
+  <o:LastSaved>2025-10-18T15:46:00Z</o:LastSaved>
   <o:Pages>4</o:Pages>
-  <o:Words>993</o:Words>
-  <o:Characters>6263</o:Characters>
-  <o:Lines>52</o:Lines>
-  <o:Paragraphs>14</o:Paragraphs>
-  <o:CharactersWithSpaces>7242</o:CharactersWithSpaces>
+  <o:Words>926</o:Words>
+  <o:Characters>5836</o:Characters>
+  <o:Lines>48</o:Lines>
+  <o:Paragraphs>13</o:Paragraphs>
+  <o:CharactersWithSpaces>6749</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -939,7 +939,7 @@ FA8CAAAgBAAADgAAAAAAAAAAAAAAAAAuAgAAZHJzL2Uyb0RvYy54bWxQSwECLQAUAAYACAAAACEA
   <![endif]></v:textbox>
  <w:wrap type="square"/>
 </v:shape><![endif]--><![if !vml]><img width=309 height=205
-src="index-Dateien/image001.png" align=left hspace=12 vspace=5
+src="index-Dateien/image004.png" align=left hspace=12 vspace=5
 alt="Textfeld: Spielanleitung:&#13;&#10;Leertaste   &#8230; du beginnst das Spiel&#13;&#10;Pfeiltasten &#8230; du lenkst den Roboter&#13;&#10;A                &#8230; setzt die Figuren an die Anfangsposition zur&uuml;ck&#13;&#10;S und D     &#8230; bei gedr&uuml;ckter Taste beginnt die Teleportation&#13;&#10;F                &#8230; beendet das Spiel&#13;&#10;"
 v:shapes="Textfeld_x0020_200254688"><![endif]><span style='font-family:"Arial",sans-serif'><o:p></o:p></span></p>
 
@@ -963,11 +963,11 @@ v:shapes="Textfeld_x0020_200254688"><![endif]><span style='font-family:"Arial",s
  </v:formulas>
  <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
  <o:lock v:ext="edit" aspectratio="t"/>
-</v:shapetype><v:shape id="Grafik_x0020_1" o:spid="_x0000_i1025" type="#_x0000_t75"
+</v:shapetype><v:shape id="Grafik_x0020_1" o:spid="_x0000_i1026" type="#_x0000_t75"
  style='width:174.75pt;height:130.5pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="index-Dateien/image002.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img width=233 height=174
-src="index-Dateien/image003.png" v:shapes="Grafik_x0020_1"><![endif]></span><span
+src="index-Dateien/image005.png" v:shapes="Grafik_x0020_1"><![endif]></span><span
 style='font-family:"Arial",sans-serif'><o:p></o:p></span></p>
 
 <p><span style='font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p>
@@ -1358,18 +1358,8 @@ style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 mso-themecolor:text1'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal><span style='font-family:"Arial",sans-serif;color:black;
-mso-themecolor:text1'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:"Arial",sans-serif;color:black;
-mso-themecolor:text1'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:"Arial",sans-serif;color:black;
 mso-themecolor:text1'><a href="files/S&uuml;&szlig;es%20oder%20Saures.html">files\S&uuml;&szlig;es
 oder Saures.html</a><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:"Arial",sans-serif;color:black;
-mso-themecolor:text1'><a href="files/S&uuml;&szlig;es%20oder%20Saures%20deluxe.html">files\S&uuml;&szlig;es
-oder Saures deluxe.html</a><o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='font-family:"Arial",sans-serif;color:black;
 mso-themecolor:text1'><o:p>&nbsp;</o:p></span></p>
@@ -1377,14 +1367,8 @@ mso-themecolor:text1'><o:p>&nbsp;</o:p></span></p>
 <p class=MsoNormal><span style='font-family:"Arial",sans-serif;color:black;
 mso-themecolor:text1'>Ihr geht an Halloween durch die Stra&szlig;en, um
 S&uuml;&szlig;es zu holen oder Saures zu bringen. Meistens geben die Leute euch
-S&uuml;&szlig;es aber manchmal kommen auch Skelette, die euch alle
-S&uuml;&szlig;igkeiten wegnehmen. Dann wird das Spiel beendet. Mit der
-Pfeil-nach-oben-Taste klopft ihr an. In der Deluxeversion nehmen sie euch nur
-ein paar S&uuml;&szlig;igkeiten weg und das Spiel wird nicht beendet. Es gib
-auch zwei neue Figuren n&auml;mlich den Geist und verkleidete, genervte Eltern.
-Der Geist erschreckt euch so sehr, dass ihr echt viele S&uuml;&szlig;igkeiten
-verliert. Die genervten Eltern bringen euch nach Hause und beenden so eure Wanderung
-durch die Stra&szlig;en.<o:p></o:p></span></p>
+S&uuml;&szlig;es aber manchmal nehmen sie euch auch die S&uuml;&szlig;igkeiten
+weg. Mit der Pfeil-nach-oben-Taste klopft ihr an.<o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='font-family:"Arial",sans-serif;color:black;
 mso-themecolor:text1'><o:p>&nbsp;</o:p></span></p>
@@ -1395,10 +1379,15 @@ mso-themecolor:text1'><o:p>&nbsp;</o:p></span></p>
 <p class=MsoNormal><span style='font-family:"Arial",sans-serif;color:black;
 mso-themecolor:text1'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal><span style='font-family:"Arial",sans-serif;color:black;
-mso-themecolor:text1'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman";
+mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Bild_x0020_2" o:spid="_x0000_i1025"
+ type="#_x0000_t75" style='width:81.75pt;height:15pt;visibility:visible;
+ mso-wrap-style:square'>
+ <v:imagedata src="index-Dateien/image006.png" o:title="" cropbottom="-440f"
+  cropright="-121f"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=109 height=20
+src="index-Dateien/image007.png" v:shapes="Bild_x0020_2"><![endif]></span><span
+style='mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='font-family:"Arial",sans-serif;color:black;
 mso-themecolor:text1'><o:p>&nbsp;</o:p></span></p>
