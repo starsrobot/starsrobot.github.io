@@ -21,17 +21,16 @@ w\:* {behavior:url(#default#VML);}
 <![endif]--><!--[if gte mso 9]><xml>
  <o:DocumentProperties>
   <o:Author>Paul Mehofer</o:Author>
-  <o:Template>Normal</o:Template>
   <o:LastAuthor>Paul Mehofer</o:LastAuthor>
-  <o:Revision>16</o:Revision>
+  <o:Revision>15</o:Revision>
   <o:Created>2025-10-11T12:02:00Z</o:Created>
-  <o:LastSaved>2026-05-25T17:07:00Z</o:LastSaved>
+  <o:LastSaved>2025-10-19T08:06:00Z</o:LastSaved>
   <o:Pages>4</o:Pages>
-  <o:Words>1090</o:Words>
-  <o:Characters>6871</o:Characters>
-  <o:Lines>57</o:Lines>
-  <o:Paragraphs>15</o:Paragraphs>
-  <o:CharactersWithSpaces>7946</o:CharactersWithSpaces>
+  <o:Words>993</o:Words>
+  <o:Characters>6263</o:Characters>
+  <o:Lines>52</o:Lines>
+  <o:Paragraphs>14</o:Paragraphs>
+  <o:CharactersWithSpaces>7242</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -43,8 +42,8 @@ w\:* {behavior:url(#default#VML);}
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Print</w:View>
+  <w:Zoom>150</w:Zoom>
   <w:SpellingState>Clean</w:SpellingState>
-  <w:GrammarState>Clean</w:GrammarState>
   <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
   <w:HyphenationZone>21</w:HyphenationZone>
@@ -871,7 +870,7 @@ der Leertaste gestartet.<o:p></o:p></span></p>
  o:spt="202" path="m,l,21600r21600,l21600,xe">
  <v:stroke joinstyle="miter"/>
  <v:path gradientshapeok="t" o:connecttype="rect"/>
-</v:shapetype><v:shape id="Textfeld_x0020_490354937" o:spid="_x0000_s1026"
+</v:shapetype><v:shape id="Textfeld_x0020_1087901928" o:spid="_x0000_s1026"
  type="#_x0000_t202" style='position:absolute;margin-left:209pt;margin-top:14.35pt;
  width:227.15pt;height:149.75pt;z-index:251659264;visibility:visible;
  mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;
@@ -945,9 +944,9 @@ FA8CAAAgBAAADgAAAAAAAAAAAAAAAAAuAgAAZHJzL2Uyb0RvYy54bWxQSwECLQAUAAYACAAAACEA
   <![endif]></v:textbox>
  <w:wrap type="square"/>
 </v:shape><![endif]--><![if !vml]><img width=307 height=204
-src="index-Dateien/image001.png" align=left hspace=12 vspace=5
+src="index-Dateien/image004.png" align=left hspace=12 vspace=5
 alt="Textfeld: Spielanleitung:&#13;&#10;Leertaste   &#8230; du beginnst das Spiel&#13;&#10;Pfeiltasten &#8230; du lenkst den Roboter&#13;&#10;A                &#8230; setzt die Figuren an die Anfangsposition zur&uuml;ck&#13;&#10;S und D     &#8230; bei gedr&uuml;ckter Taste beginnt die Teleportation&#13;&#10;F                &#8230; beendet das Spiel&#13;&#10;"
-v:shapes="Textfeld_x0020_490354937"><![endif]><span style='font-family:"Arial",sans-serif'><o:p></o:p></span></p>
+v:shapes="Textfeld_x0020_1087901928"><![endif]><span style='font-family:"Arial",sans-serif'><o:p></o:p></span></p>
 
 <p><span style='font-family:"Arial",sans-serif;mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype
  id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
@@ -973,7 +972,7 @@ v:shapes="Textfeld_x0020_490354937"><![endif]><span style='font-family:"Arial",s
  style='width:175pt;height:130.5pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="index-Dateien/image002.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img width=233 height=174
-src="index-Dateien/image003.png" v:shapes="Grafik_x0020_1"><![endif]></span><span
+src="index-Dateien/image005.png" v:shapes="Grafik_x0020_1"><![endif]></span><span
 style='font-family:"Arial",sans-serif'><o:p></o:p></span></p>
 
 <p><span style='font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p>
@@ -1049,8 +1048,7 @@ einen <span class=SpellE>Tucan</span> und mit der <o:p></o:p></span></p>
 mso-themecolor:text1'><span
 style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span>Pfeil-nach-oben-Taste bewegt ihr ihn vorw&auml;rts. Ihr versucht eine
-Banane<span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Banane<span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span><o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='font-family:"Arial",sans-serif;color:black;
@@ -1399,87 +1397,6 @@ nicht beendet. Es gib auch zwei neue Figuren n&auml;mlich den Geist und
 verkleidete, genervte Eltern. Der Geist erschreckt euch so sehr, dass ihr echt
 viele S&uuml;&szlig;igkeiten verliert. Die genervten Eltern bringen euch nach
 Hause und beenden so eure Wanderung durch die Stra&szlig;en.<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:"Arial",sans-serif;color:black;
-mso-themecolor:text1'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:"Arial",sans-serif;color:black;
-mso-themecolor:text1'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:"Arial",sans-serif;color:black;
-mso-themecolor:text1'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:"Arial",sans-serif;color:black;
-mso-themecolor:text1'><a href="files/Jump%20and%20Dino.html"><span
-class=SpellE>files</span>\Jump and Dino.html</a><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:"Arial",sans-serif;color:black;
-mso-themecolor:text1'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:"Arial",sans-serif;color:black;
-mso-themecolor:text1'>In diesem Spiel seid ihr ein Dino der durch das
-Dr&uuml;cken der Pfeil nach oben Taste springt. Umso l&auml;nger ihr durchhaltet
-um so h&ouml;her ist euer Score.<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:"Arial",sans-serif;color:black;
-mso-themecolor:text1'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:"Arial",sans-serif;color:black;
-mso-themecolor:text1'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:"Arial",sans-serif;color:black;
-mso-themecolor:text1'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:"Arial",sans-serif;color:black;
-mso-themecolor:text1'><a href="files/Ball%20vs%20Ball.html"><span class=SpellE>files</span>\Ball
-<span class=SpellE>vs</span> Ball.html</a><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:"Arial",sans-serif;color:black;
-mso-themecolor:text1'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:"Arial",sans-serif;color:black;
-mso-themecolor:text1'>In diesem 1 <span class=SpellE>vs</span> 1 Spiel seid ihr
-zwei B&auml;lle die sich mit den Pfeiltasten / w, a, s, und d fortbewegen
-k&ouml;nnen und sich mit l / e angreifen.<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:"Arial",sans-serif;color:black;
-mso-themecolor:text1'>Es gibt drei Power-<span class=SpellE>Ups</span>:<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:"Arial",sans-serif;color:black;
-mso-themecolor:text1'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span><span style='mso-spacerun:yes'>&nbsp;</span>Apfel: regeneriert Leben<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:"Arial",sans-serif;color:black;
-mso-themecolor:text1'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span>Pfeil: feuert ein Geschoss auf den Gegner ab<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:"Arial",sans-serif;color:black;
-mso-themecolor:text1'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span>Gr&uuml;ner Ball: macht dich f&uuml;r zehn Sekunden unverwundbar<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:"Arial",sans-serif;color:black;
-mso-themecolor:text1'><span style='mso-spacerun:yes'>&nbsp;&nbsp; </span><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:"Arial",sans-serif;color:black;
-mso-themecolor:text1'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:"Arial",sans-serif;color:black;
-mso-themecolor:text1'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:"Arial",sans-serif;color:black;
-mso-themecolor:text1'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:"Arial",sans-serif;color:black;
-mso-themecolor:text1'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:"Arial",sans-serif;color:black;
-mso-themecolor:text1'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:"Arial",sans-serif;color:black;
-mso-themecolor:text1'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal><span style='font-family:"Arial",sans-serif;color:black;
 mso-themecolor:text1'><o:p>&nbsp;</o:p></span></p>
